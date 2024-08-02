@@ -280,7 +280,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: gemini, // Replace with the actual path to the image
+    // image: gemini, // Replace with the actual path to the image
     // source_code_link: "https://namanlambaa.github.io/WeatherX/", // Replace with the actual GitHub link
   },
 
@@ -304,7 +304,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: carrent,
+    // image: carrent,
     // source_code_link: "https://github.com/",
   },
 
@@ -327,7 +327,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: jobit,
+    // image: jobit,
     // source_code_link: "https://github.com/",
   },
   {
@@ -348,7 +348,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: tripguide,
+    // image: tripguide,
     // source_code_link: "https://github.com/",
   },
   {
@@ -369,7 +369,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: tripguide,
+    // image: tripguide,
     // source_code_link: "https://github.com/",
   },
   {
@@ -390,7 +390,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: tripguide,
+    // image: tripguide,
     // source_code_link: "https://github.com/",
   },
 ];
