@@ -64,8 +64,8 @@ const Works = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText}`}>My work</p>
-        <h2 className={`${styles.sectionHeadText}`}>Projects</h2>
+        <p className={`${styles.sectionSubText}`}>MY ACCOMPLISHMENTS</p>
+        <h2 className={`${styles.sectionHeadText}`}>Certificates</h2>
       </motion.div>
 
       <div className="w-full flex">
@@ -73,10 +73,9 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Hi there! I'm a dedicated developer who loves crafting applications
-          and tools that make life easier and more enjoyable. Recently, I
-          created a cross device communicaiton platform just like in iOS 
-          ecosystem allowing seamless transfer of data between devices.
+          Hi there! I've completed several certification courses which gives me an 
+          edge over others along with hands on experience about the business world 
+          and market trends.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">
