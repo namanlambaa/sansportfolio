@@ -43,11 +43,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Computer Science and Technology student at MAIT, New Delhi,
-        specializing in Big Data Analytics. Passionate about software
-        development with strong skills in programming, databases, and full-stack
-        development. Effective in both independent and team settings, known for
-        problem-solving and meeting deadlines.
+       I hold a BSc in Economics and possess strong leadership and management skills. Currently,
+       I am pursuing an MSc in Management at Trinity College Dublin. With more than a year of 
+       experience in marketing, I have developed a solid grasp of strategic planning, market
+       trend analysis, and business operations optimization. My background in economics, 
+       along with a strong interest in marketing, has prepared me to drive organisational 
+       success through effective team management and innovative initiatives.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
