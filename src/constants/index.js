@@ -46,15 +46,15 @@ export const navLinks = [
 const services = [
   {
     title: "Marketing",
-    // icon: web,
+    icon: web,
   },
   {
     title: "Management",
-    // icon: backend,
+    icon: backend,
   },
   {
     title: "Economics",
-    // icon: backend,
+    icon: backend,
   },
   /*
   {
@@ -163,50 +163,50 @@ const experiences = [
       "Was recognized as the intern of the month in June 2024.",
     ],
   },
-  // {
-  //   title: "Sales and Marketing Intern",
-  //   company_name: "ILP Overseas",
-  //   icon: tesla,
-  //   iconBg: "#E6DEDD",
-  //   date: "Jan 2022 - Feb 2022",
-  //   points: [
-  //     "Assisted the sales team in discovering and qualifying leads through research and outreach efforts.",
-  //     "Helped to prepare sales presentations and proposals for potential clients.",
-  //     "Maintaining and updating customer relationship management (CRM) systems to track sales activities and client interactions.",
-  //     "Conducted market research to find new business prospects and trends.",
-  //     "Participated in sales meetings and training courses to improve product knowledge and sales skills.",
-  //   ],
-  // },
-  // {
-  //   title: "Finance Intern",
-  //   company_name: "NGO Sakaar Outreach",
-  //   icon: shopify,
-  //   iconBg: "#383E56",
-  //   date: "Jan 2022 - Feb 2022",
-  //   points: [
-  //     "Carried out market research to assist with financial planning and investment plans.",
-  //     "Collaborated with senior finance team members to evaluate financial performance and identify opportunities for improvement.",
-  //     "Helped maintain financial records and documentation in accordance with company policy and regulatory standards.",
-  //     "Participated in team meetings and contributed to discussions on financial strategy and initiatives.",
-  //   ],
-  // },
-  // {
-  //   title: "Marketing Intern",
-  //   company_name: "Delhi Public School, 67A",
-  //   icon: meta,
-  //   iconBg: "#E6DEDD",
-  //   date: "June 2021 - Dec 2021",
-  //   points: [
-  //     "Conducted market research to uncover trends and customer preferences to aid sales strategy.",
-  //     "Assisted in the creation of marketing materials such as blog posts, social media content, and email campaigns.",
-  //     "Managed and updated the company's social media profiles, interacted with followers, and analysed performance data.",
-  //     "Supported the sales team by creating presentations, updating customer databases, and assisting with lead development.",
-  //     "Helped to organise and promote events and trade exhibits.",
-  //     "Interacted with customers through phone and email to get their opinions and feedback with questions.",
-  //     "Tracked and reported on marketing campaign performance",
-  //     "Collaborated with cross-functional teams to ensure goals and objectives were aligned.",
-  //   ],
-  // },
+  {
+    title: "Sales and Marketing Intern",
+    company_name: "ILP Overseas",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "Jan 2022 - Feb 2022",
+    points: [
+      "Assisted the sales team in discovering and qualifying leads through research and outreach efforts.",
+      "Helped to prepare sales presentations and proposals for potential clients.",
+      "Maintaining and updating customer relationship management (CRM) systems to track sales activities and client interactions.",
+      "Conducted market research to find new business prospects and trends.",
+      "Participated in sales meetings and training courses to improve product knowledge and sales skills.",
+    ],
+  },
+  {
+    title: "Finance Intern",
+    company_name: "NGO Sakaar Outreach",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "Jan 2022 - Feb 2022",
+    points: [
+      "Carried out market research to assist with financial planning and investment plans.",
+      "Collaborated with senior finance team members to evaluate financial performance and identify opportunities for improvement.",
+      "Helped maintain financial records and documentation in accordance with company policy and regulatory standards.",
+      "Participated in team meetings and contributed to discussions on financial strategy and initiatives.",
+    ],
+  },
+  {
+    title: "Marketing Intern",
+    company_name: "Delhi Public School, 67A",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "June 2021 - Dec 2021",
+    points: [
+      "Conducted market research to uncover trends and customer preferences to aid sales strategy.",
+      "Assisted in the creation of marketing materials such as blog posts, social media content, and email campaigns.",
+      "Managed and updated the company's social media profiles, interacted with followers, and analysed performance data.",
+      "Supported the sales team by creating presentations, updating customer databases, and assisting with lead development.",
+      "Helped to organise and promote events and trade exhibits.",
+      "Interacted with customers through phone and email to get their opinions and feedback with questions.",
+      "Tracked and reported on marketing campaign performance",
+      "Collaborated with cross-functional teams to ensure goals and objectives were aligned.",
+    ],
+  },
 
   
 ];
