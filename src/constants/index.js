@@ -260,7 +260,7 @@ const projects = [
       // },
     ],
     image: crmext,
-    source_code_link: "https://github.com/namandureja/glue-all",
+    // source_code_link: "https://github.com/namandureja/glue-all",
   },
   {
     name: "University of Amsterdam",
@@ -281,7 +281,7 @@ const projects = [
       // },
     ],
     image: gemini, // Replace with the actual path to the image
-    source_code_link: "https://namanlambaa.github.io/WeatherX/", // Replace with the actual GitHub link
+    // source_code_link: "https://namanlambaa.github.io/WeatherX/", // Replace with the actual GitHub link
   },
 
   
