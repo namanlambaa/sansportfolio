@@ -286,113 +286,113 @@ const projects = [
 
   
 
-  // {
-  //   name: "Duke University",
-  //   description:
-  //     "Completed course on Data Science Math Skills",
-  //   tags: [
-  //     // {
-  //     //   name: "react",
-  //     //   color: "blue-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "mongodb",
-  //     //   color: "green-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "tailwind",
-  //     //   color: "pink-text-gradient",
-  //     // },
-  //   ],
-  //   // image: carrent,
-  //   // source_code_link: "https://github.com/",
-  // },
+  {
+    name: "Duke University",
+    description:
+      "Completed course on Data Science Math Skills",
+    tags: [
+      // {
+      //   name: "react",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "mongodb",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "tailwind",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    // image: carrent,
+    // source_code_link: "https://github.com/",
+  },
 
   
-  // {
-  //   name: "University of Michigan",
-  //   description:
-  //     "Completed course on Beyond the Sustainable Development Goals (SDGs)- Addressing Sustainability and Development",
-  //   tags: [
-  //     // {
-  //     //   name: "react",
-  //     //   color: "blue-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "restapi",
-  //     //   color: "green-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "scss",
-  //     //   color: "pink-text-gradient",
-  //     // },
-  //   ],
-  //   // image: jobit,
-  //   // source_code_link: "https://github.com/",
-  // },
-  // {
-  //   name: "Erasmus University Rotterdam",
-  //   description:
-  //     "Completed course on Earth economics",
-  //   tags: [
-  //     // {
-  //     //   name: "nextjs",
-  //     //   color: "blue-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "supabase",
-  //     //   color: "green-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "css",
-  //     //   color: "pink-text-gradient",
-  //     // },
-  //   ],
-  //   // image: tripguide,
-  //   // source_code_link: "https://github.com/",
-  // },
-  // {
-  //   name: "University of Illinois at Urbana-Champaign",
-  //   description:
-  //     "Completed course on Country Level Economics- Macroeconomic Variables and Markets",
-  //   tags: [
-  //     // {
-  //     //   name: "nextjs",
-  //     //   color: "blue-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "supabase",
-  //     //   color: "green-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "css",
-  //     //   color: "pink-text-gradient",
-  //     // },
-  //   ],
-  //   // image: tripguide,
-  //   // source_code_link: "https://github.com/",
-  // },
-  // {
-  //   name: "Duke University",
-  //   description:
-  //     "Competed course on Impact Measurement & Management for the SDGs",
-  //   tags: [
-  //     // {
-  //     //   name: "nextjs",
-  //     //   color: "blue-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "supabase",
-  //     //   color: "green-text-gradient",
-  //     // },
-  //     // {
-  //     //   name: "css",
-  //     //   color: "pink-text-gradient",
-  //     // },
-  //   ],
-  //   // image: tripguide,
-  //   // source_code_link: "https://github.com/",
-  // },
+  {
+    name: "University of Michigan",
+    description:
+      "Completed course on Beyond the Sustainable Development Goals (SDGs)- Addressing Sustainability and Development",
+    tags: [
+      // {
+      //   name: "react",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "restapi",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "scss",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    // image: jobit,
+    // source_code_link: "https://github.com/",
+  },
+  {
+    name: "Erasmus University Rotterdam",
+    description:
+      "Completed course on Earth economics",
+    tags: [
+      // {
+      //   name: "nextjs",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "supabase",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "css",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    // image: tripguide,
+    // source_code_link: "https://github.com/",
+  },
+  {
+    name: "University of Illinois at Urbana-Champaign",
+    description:
+      "Completed course on Country Level Economics- Macroeconomic Variables and Markets",
+    tags: [
+      // {
+      //   name: "nextjs",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "supabase",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "css",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    // image: tripguide,
+    // source_code_link: "https://github.com/",
+  },
+  {
+    name: "Duke University",
+    description:
+      "Competed course on Impact Measurement & Management for the SDGs",
+    tags: [
+      // {
+      //   name: "nextjs",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "supabase",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "css",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    // image: tripguide,
+    // source_code_link: "https://github.com/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
