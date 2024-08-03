@@ -37,9 +37,9 @@ const ProjectCard = ({
                 src={github}
                 alt="github"
                 className="w-1/2 h-1/2 object-contein"
-              /> */}
+              />
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="mt-5">
           <h3 className="text-white font-bold text-[24px]">{name}</h3>
