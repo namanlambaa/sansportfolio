@@ -54,7 +54,7 @@ const services = [
   },
   {
     title: "Economics",
-    icon: backend,
+    icon: docker,
   },
   /*
   {
@@ -193,7 +193,7 @@ const experiences = [
   {
     title: "Marketing Intern",
     company_name: "Delhi Public School, 67A",
-    icon: meta,
+    icon: ongc,
     iconBg: "#E6DEDD",
     date: "June 2021 - Dec 2021",
     points: [
@@ -304,7 +304,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    // image: carrent,
+    image: carrent,
     // source_code_link: "https://github.com/",
   },
 
@@ -327,7 +327,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    // image: jobit,
+    image: crmext,
     // source_code_link: "https://github.com/",
   },
   {
@@ -348,7 +348,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    // image: tripguide,
+    image: tripguide,
     // source_code_link: "https://github.com/",
   },
   {
@@ -369,7 +369,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    // image: tripguide,
+    image: nodejs,
     // source_code_link: "https://github.com/",
   },
   {
@@ -390,7 +390,7 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    // image: tripguide,
+    image: carrent,
     // source_code_link: "https://github.com/",
   },
 ];
